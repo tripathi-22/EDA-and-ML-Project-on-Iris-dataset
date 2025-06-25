@@ -1,5 +1,3 @@
-# EDA-and-ML-Project-on-Iris-Dataset
-
 # 🌸 Iris Dataset - EDA & K-Nearest Neighbors Classification
 
 This project involves an end-to-end data science workflow using the classic **Iris flower dataset**. It includes data cleaning, exploratory data analysis (EDA), data visualization, outlier handling, feature encoding, and applying **K-Nearest Neighbors (KNN)** classification.
